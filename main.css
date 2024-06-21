@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #E7E7E7;
+    padding-top: 200px;
+
+}
+
+header {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    margin-bottom: 40px;
+    
+}
+
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+form {
+    display: flex;
+    max-width: 1020px;
+    width: 100;
+    justify-content:center;
+    margin-bottom: 56px;
+
+}
+
+form input {
+    font-size: 24px;
+    background-color: #fff;
+    border: 2px solid #b4bdb4b7;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+form button {
+    background-color:#f1eeed77;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #b4bdb4b7;
+    cursor: pointer;
+    padding: 8px;
+}
+
+
+li {
+   
+    padding: 8px;
+    margin-left: 300px;
+    font-size: 18px;
+}
+
+.riscado {
+    text-decoration: line-through;
+}
+
